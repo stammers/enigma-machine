@@ -10,7 +10,7 @@ public class Tester {
 	
 	public static void main(String[] args) {
 		Tester myTest = new Tester();
-		myTest.testConvert();
+		myTest.messageDean();
 	}
 	
 	//Does test1 from the coursework sheet
